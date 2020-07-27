@@ -1,0 +1,44 @@
+.hero-banner h2{
+    font-size: $font-size-48;
+    font-weight: $font-weight-900;
+    color: $color-black;
+    margin-bottom: 20px;
+}
+
+.hero-banner h3{
+    font-size: $font-size-24;
+    font-weight: $font-weight-bold;
+    text-align: left;
+    color: $primary-blue-200;
+    margin-bottom: 20px;
+}
+
+.hero-banner p{
+    font-size: $font-size-18;
+    color: $primary-black-200;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+
+.hero-banner h5{
+    font-size: $font-size-16;
+    background-color: $primary-blue-200;
+    color: $color-white;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 9px 15px;
+    border: 1px solid $primary-blue-200;
+    line-height: normal;
+}
+
+.hero-banner img{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+
+.hero-banner{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}

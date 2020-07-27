@@ -1,0 +1,41 @@
+.single-item{
+    background-color: $primary-blue-200;
+    text-align: center;
+}
+
+.single-item h3{
+    display: inline-block;
+    color: $color-white;
+    font-size: $font-size-22;
+    font-weight: $font-weight-600;
+    margin-bottom: 30px;
+}
+
+.slider-name .field-item{
+    display: flex;
+    justify-content: center;
+}
+
+.single-item h4{
+    display: inline-block;
+    font-size: $font-size-16;
+    font-weight: $font-weight-600;
+    color: $color-white;
+    padding-top: 7px;
+    padding-left: 7px;
+}
+
+.single-item p{
+    font-size: $font-size-18;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.single-item img{
+    margin: auto !important;
+    height: 76px;
+    width: auto;
+    border-radius: 50%;
+    display: block;
+    margin-bottom: 30px !important;
+}

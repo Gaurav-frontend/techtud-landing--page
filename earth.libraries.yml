@@ -1,0 +1,19 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/earth.css: {}
+      css/techtud.css: {}
+      css/carousel.css: {}
+    theme:
+      //cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css: { type: external }
+      //cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css: { type: external } 
+      //fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap: { } 
+      //fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap: { }
+      //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css: { }
+      
+  js:
+    js/earth.js: {}
+    //cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js: { type: external }
+    //cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js: { }
+    js/scripts.js: {} 

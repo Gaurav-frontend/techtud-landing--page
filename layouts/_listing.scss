@@ -1,0 +1,36 @@
+.block-inline-blocktechtud-listing{
+    padding-top: 60px;
+}
+
+.block-inline-blocktechtud-listing h2{
+    font-size: $font-size-36;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 4rem;
+    font-weight: $font-weight-bold;
+    text-align: center;
+}
+
+.block-inline-blocktechtud-listing p{
+    font-size: $font-size-20;
+    color: $color-black;
+}
+
+.block-inline-blocktechtud-listing p::before{
+    content: "\f14a";
+    font-family: FontAwesome;
+    font-size: 18px;
+    color: $primary-blue-200;
+    padding-right: 8px;
+}
+
+.field-label{
+    display: none;
+}
+
+.testomonial_fields .fa-quote-left{
+    font-size: 60px;
+    color: $color-white;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}

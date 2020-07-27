@@ -1,0 +1,40 @@
+.block-inline-blocktechtud-offers{
+    background-color: $primary-gray-400;
+}
+
+.block-inline-blocktechtud-offers .block-title{
+    font-size: $font-size-30;
+    font-weight: $font-weight-bold;
+    margin: 50px 0px 60px 0px;
+    color: $primary-black-400;
+    text-align: center;
+}
+
+.offer-items img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    max-height: 65px;
+}
+
+.offer-items{
+    text-align: center !important;
+}
+
+.offer-items h4{
+    font-size: $font-size-18;
+    font-weight: $font-weight-bold;
+    color: $color-black;
+    margin-top: 20px;
+}
+
+.offer-items p{
+    font-size: $font-size-16;
+    color: $primary-black-200;
+    opacity: 0.7;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5rem;
+}
